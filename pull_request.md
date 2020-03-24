@@ -2,8 +2,12 @@
 
 Que tipo de cambio es?
 
-Frontend[]
-Backend[]
-CSS[]
-HTML[]
-Fonts[]
+Frontend[ ]
+
+Backend[ ]
+
+CSS[ ]
+
+HTML[ ]
+
+Fonts[ ]
