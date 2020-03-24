@@ -25,7 +25,7 @@
     transition: all .5s;
 }
 .slider .controls li.active{
-    background-color: #741d1d;
+    background-color: #611212;
 }
 .slider .imgs-container{
     white-space: nowrap;
